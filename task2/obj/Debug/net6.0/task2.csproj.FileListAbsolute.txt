@@ -1,0 +1,15 @@
+C:\progect\c_lesson8\task2\obj\Debug\net6.0\task2.csproj.AssemblyReference.cache
+C:\progect\c_lesson8\task2\obj\Debug\net6.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\progect\c_lesson8\task2\obj\Debug\net6.0\task2.AssemblyInfoInputs.cache
+C:\progect\c_lesson8\task2\obj\Debug\net6.0\task2.AssemblyInfo.cs
+C:\progect\c_lesson8\task2\obj\Debug\net6.0\task2.csproj.CoreCompileInputs.cache
+C:\progect\c_lesson8\task2\bin\Debug\net6.0\task2.exe
+C:\progect\c_lesson8\task2\bin\Debug\net6.0\task2.deps.json
+C:\progect\c_lesson8\task2\bin\Debug\net6.0\task2.runtimeconfig.json
+C:\progect\c_lesson8\task2\bin\Debug\net6.0\task2.dll
+C:\progect\c_lesson8\task2\bin\Debug\net6.0\task2.pdb
+C:\progect\c_lesson8\task2\obj\Debug\net6.0\task2.dll
+C:\progect\c_lesson8\task2\obj\Debug\net6.0\refint\task2.dll
+C:\progect\c_lesson8\task2\obj\Debug\net6.0\task2.pdb
+C:\progect\c_lesson8\task2\obj\Debug\net6.0\task2.genruntimeconfig.cache
+C:\progect\c_lesson8\task2\obj\Debug\net6.0\ref\task2.dll
